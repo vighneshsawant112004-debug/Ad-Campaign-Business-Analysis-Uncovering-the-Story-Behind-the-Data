@@ -1,8 +1,9 @@
 # 🎯 Ad Campaign Business Analysis — Uncovering the Story Behind the Data
 
-This project dives deep into ad campaign data to uncover the real story behind impressions, clicks, and conversions.
-By turning raw marketing numbers into clear insights, it helps understand what drives user engagement, which platforms perform best, and how campaign strategies can improve overall business results.
+## Data 📘 Overview
 
+This project dives deep into advertising campaign data to uncover what truly drives engagement, clicks, and conversions.
+By analyzing multiple datasets and combining them into one unified view, we reveal how campaign duration, platforms, and audience behavior impact performance.
 ---
 
 ## 🚀 Features
