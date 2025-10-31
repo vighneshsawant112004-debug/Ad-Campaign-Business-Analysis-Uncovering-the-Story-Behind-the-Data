@@ -1,9 +1,9 @@
 # 🎯 Ad Campaign Business Analysis — Uncovering the Story Behind the Data
 
-## Data 📘 Overview
+## 📘 Overview
 
-This project dives deep into advertising campaign data to uncover what truly drives engagement, clicks, and conversions.
-By analyzing multiple datasets and combining them into one unified view, we reveal how campaign duration, platforms, and audience behavior impact performance.
+* **This project dives deep into advertising campaign data to uncover what truly drives engagement, clicks, and conversions.
+By analyzing multiple datasets and combining them into one unified view, we reveal how campaign duration, platforms, and audience behavior impact performance.**
 ---
 
 ## 🚀 Features
