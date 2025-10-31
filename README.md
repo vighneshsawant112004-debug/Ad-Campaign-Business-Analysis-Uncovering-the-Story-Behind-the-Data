@@ -8,7 +8,7 @@ By analyzing multiple datasets and combining them into one unified view, we reve
 
 ## Project Highlights
 
-* **🔹4 datasets merged to build a complete picture of campaign performance.**
+🔹 4 datasets merged to build a complete picture of campaign performance.**
 
 🔹 Exploratory Data Analysis (EDA) using Python (Pandas, NumPy, Matplotlib, Plotly).
 
