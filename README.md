@@ -6,6 +6,18 @@
 By analyzing multiple datasets and combining them into one unified view, we reveal how campaign duration, platforms, and audience behavior impact performance.**
 ---
 
+## Project Highlights
+
+* **🔹4 datasets merged to build a complete picture of campaign performance.**
+
+🔹 Exploratory Data Analysis (EDA) using Python (Pandas, NumPy, Matplotlib, Plotly).
+
+🔹 Interactive charts that show engagement trends, funnel drop-offs, and performance by platform and gender.
+
+🔹 Campaign insights on duration effectiveness, weekend conversions, and audience targeting.
+
+🔹 Actionable recommendations to improve ad strategies and conversion rates.
+
 ## 🚀 Features
 
 * **Campaign Duration Analysis:** See how short vs. long campaigns affect engagement rates.
